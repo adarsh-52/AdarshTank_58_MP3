@@ -1,0 +1,28 @@
+body {
+    background: #051435;
+    text-align: center;
+}
+
+h1 {
+    margin: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    color: rgb(19, 112, 165);
+    font-size: 3em;
+}
+
+button {
+    margin: 40px 5px auto;
+    text-align: center;
+    color: #1da345;
+    background: #721329;
+    border: solid 2px #590F20;
+    border-radius: 5px;
+    padding: 16px 40px 16px;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+
+#text_area {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
